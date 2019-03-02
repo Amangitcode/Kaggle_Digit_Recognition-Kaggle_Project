@@ -1,6 +1,7 @@
 # Kaggle_Digit_Recognition-project
 This is a Kaggle beginner competition: Digit Recognizer
-For more details visit https://www.kaggle.com/aktaruzzaman/digit-reco-aman/data
+Could not upload data files as they are really big in size. Please visit link below for data files
+https://www.kaggle.com/aktaruzzaman/digit-reco-aman/data
 
 In this project you are supposed to develope a machine learning algorithm to recognize a hand written digit. 
 
