@@ -3,6 +3,7 @@ This is a Kaggle beginner competition: Digit Recognizer
 For more details visit https://www.kaggle.com/aktaruzzaman/digit-reco-aman/data
 
 In this project you are supposed to develope a machine learning algorithm to recognize a hand written digit. 
+
 #Steps
 1. Load Data
 2. FeatureEngineering: Cleaning+Missing value check
